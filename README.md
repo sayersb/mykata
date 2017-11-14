@@ -1,0 +1,2 @@
+# mykata
+potential codewars kata
